@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "..\\fundal"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "nuxt.isNuxtApp": false
+  }
+}
